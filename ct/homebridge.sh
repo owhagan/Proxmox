@@ -2,6 +2,7 @@
 source <(curl -s https://raw.githubusercontent.com/owhagan/Proxmox/main/misc/build.func)
 # Copyright (c) 2021-2024 tteck
 # Author: tteck (tteckster)
+# Modified by: owhagan
 # License: MIT
 # https://github.com/tteck/Proxmox/raw/main/LICENSE
 
